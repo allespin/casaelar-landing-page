@@ -8,7 +8,7 @@ Landing page de e-commerce com design moderno, fluido e responsivo. Desenvolvida
 - HTML5
 - Tailwind CSS
 - JavaScript
-- PostCSS / Autoprefixer
+- CSS
 
 ## 👤 Autor
 
