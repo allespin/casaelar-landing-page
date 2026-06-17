@@ -10,6 +10,3 @@ Landing page de e-commerce com design moderno, fluido e responsivo. Desenvolvida
 - JavaScript
 - CSS
 
-## 👤 Autor
-
-Desenvolvido por **Iury Guedes**.
