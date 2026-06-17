@@ -1,18 +1,12 @@
 # 🛍️ Casa & Lar - eCommerce Landing Page
 
-Projeto de uma landing page moderna para um e-commerce de produtos artesanais para casa.
+## [EM DESENVOLVIMENTO] ##
+Landing page de e-commerce com design moderno, fluido e responsivo. Desenvolvida com foco em performance, utilizando HTML5, CSS3, Tailwind CSS e JavaScript ES6+. Consumo de dados estruturados via JSON
 
 ## 🚀 Tecnologias Utilizadas
 
 - HTML5
 - Tailwind CSS
 - JavaScript
-- PostCSS / Autoprefixer
+- CSS
 
-## 👤 Autor
-
-Desenvolvido por **Iury Guedes**.
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
