@@ -8,16 +8,17 @@ Este projeto foi construído para fornecer uma experiência de compra visualment
 
 ## 🚀 Tecnologias Utilizadas
 
-| Tecnologia |
-| :--- |
-| HTML5 |
-| Tailwind CSS v3 |
-| PostCSS |
-| Autoprefixer |
-| JavaScript (ES6+) |
-| Google Fonts |
-| Material Symbols |
-| IonIcons |
+| Tecnologia | Uso |
+| :--- | :--- |
+| HTML5 | Estruturação semântica do layout e conteúdo da página. |
+| Tailwind CSS v3 | Estilização responsiva e moderna baseada em classes utilitárias. |
+| PostCSS | Processamento e otimização dos estilos CSS. |
+| Autoprefixer | Adição automática de prefixos de navegadores para compatibilidade do CSS. |
+| JavaScript (ES6+) | Lógica de interação do usuário (menu responsivo, slider, carrinho). |
+| JSON | Estruturação de dados e gerenciamento de configurações/dependências do projeto. |
+| Google Fonts | Carregamento das fontes tipográficas do projeto (Montserrat e Cormorant Garamond). |
+| Material Symbols | Iconografia moderna e limpa para elementos interativos da interface. |
+| IonIcons | Pacote de ícones adicionais para enriquecimento visual do layout. |
 
 ---
 
@@ -119,16 +120,17 @@ This project was built to provide a visually attractive and interactive shopping
 
 ## 🚀 Technologies Used
 
-| Technology |
-| :--- |
-| HTML5 |
-| Tailwind CSS v3 |
-| PostCSS |
-| Autoprefixer |
-| JavaScript (ES6+) |
-| Google Fonts |
-| Material Symbols |
-| IonIcons |
+| Technology | Use |
+| :--- | :--- |
+| HTML5 | Semantic structuring of the page layout and content. |
+| Tailwind CSS v3 | Responsive and modern styling using utility classes. |
+| PostCSS | Processing and optimization of CSS styles. |
+| Autoprefixer | Automatically adding vendor prefixes to CSS for browser compatibility. |
+| JavaScript (ES6+) | User interaction logic (mobile menu, slider, cart toggling). |
+| JSON | Data structuring and project configuration/dependency management. |
+| Google Fonts | Loading typography styles for the project (Montserrat and Cormorant Garamond). |
+| Material Symbols | Modern and clean iconography for interactive interface elements. |
+| IonIcons | Additional icon library used to enhance visual styling. |
 
 ---
 
